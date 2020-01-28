@@ -1,5 +1,7 @@
 # python Speak-Engine
 
+#Linux,Termux
+
 
 # Commands:-
 
